@@ -31,7 +31,7 @@ And to activate the environment:
 conda activate info5368
 ```
 
-```
+
 To run the Streamlit app, use the following command:
 ```
 streamlit run 1_Home.py
