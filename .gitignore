@@ -1,0 +1,9 @@
+*__pycache__*
+.pytest_cache/
+notebooks/.ipynb_checkpoints/
+pages/__pycache__/
+.DS_Store
+*.pytest_cache
+*.__pycache__
+*.pyc
+pages/__pycache__/
